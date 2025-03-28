@@ -1,0 +1,14 @@
+@media screen and (max-width:500px) {
+    .col-8 {
+        display: none;
+        width: 100%;
+    }
+
+    .col-2 {
+        width: 20%;
+    }
+
+    .col-4 {
+        width: 80%;
+    }
+}
