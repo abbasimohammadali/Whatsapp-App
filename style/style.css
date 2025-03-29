@@ -530,7 +530,6 @@ body {
     outline: none;
     color: #fff;
     padding-right: 10px;
-    transform: translateY(-5px);
 }
 
 .message-Input input:focus ,
