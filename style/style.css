@@ -502,9 +502,11 @@ body {
     justify-content: space-between;
     align-items: center;
     padding-inline: 30px;
+    gap: 10px;
 }
 
 .message-Input {
+    display: flex;
     width: 90%;
     padding: 5px 20px;
     background-color: #2a3942;
@@ -573,7 +575,7 @@ body {
 .messages {
     overflow-y: auto;
     height: 92%;
-
+    padding-bottom: 60px;
 }
 
 .content-box {
